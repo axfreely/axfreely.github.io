@@ -1,0 +1,19 @@
+
+$ maybe instead of focusing on coding we should shift the perspective and think about a different part of that goal. that part being the independent investigative community part?
+
+$ what is your main goal really? getting ppl who say oh that tech stuff isnt for me to not say that.(current) finding something to do, that does not carry additional cost, with all these raspberry pi's (past)
+	pi's = use them to host your github web page
+	tech stuff = make a web page. host it yourself.
+ new goal= create a web page, host it on github, then figure out what to add?
+
+$ projects = things to add?
+
+$ curation = save your files and reconnect your pi each time, as they will be erased. unless you are invited to join pi club, then your pi is permanant (as long as you are an active member?)
+
+$ is any of ^ that ^ FUN? ((sounds pretty not fun to me)) well making text games sounds fun to me, but how can we make something that finds out what you think is FUN and then lead you to do that?
+	$ here is some html, make it fun GO! ((nope))
+	$ here is some html, with just this, make something fun ((maybeish?))
+
+$ what is FUN even? fun: noun: enjoyment, amusement, or lighthearted pleasure. 
+
+ 
